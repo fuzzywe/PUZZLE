@@ -144,12 +144,9 @@ Since \( T \) is the tallest, and \( U \) is the shortest, we can arrange the he
 - **The color of the tallest house (T) is Blue**.
 - **There are three houses taller than R**: \( T \), \( Q \), and \( S \).
 
--  	CASE 1	CASE 2
-Tallest	T-Blue	T-Blue
-2nd Tallest	Q-Green	S-Red
-3rd Tallest	S-Red	Q-Green
-4th Tallest	P-White	P-White
-5th Tallest	R-Yellow	R-Yellow
-Smallest	U-Orange	U-Orange
+
+![04 11 2024_22 32 40_REC](https://github.com/user-attachments/assets/aefdf0cb-0da6-42a5-9f2b-2c37969825bc)
+
+
 From the above table,
 The color of the tallest house is Blue and the tallest house is T. Therefore, there are four houses taller than R which are T, Q, S, and P
