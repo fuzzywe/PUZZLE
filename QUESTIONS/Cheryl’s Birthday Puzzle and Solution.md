@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=2yeEmqUfI6U&ab_channel=MindYourDecisions
+
 Cheryl’s Birthday Puzzle and Solution
 
 
