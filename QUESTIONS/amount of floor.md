@@ -7,7 +7,7 @@ This explanation approaches the problem **in reverse**, calculating how much flo
  
 ![Screenshot 2025-01-10 124010](https://github.com/user-attachments/assets/a1c1861e-45bb-4132-a278-364d31f22eb6)
 
-
+(15+0.5)×2=31 kg.
 
 ---
 
